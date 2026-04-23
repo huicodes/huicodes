@@ -1,7 +1,7 @@
 ## Hi there, I'm Henry! 👋 
 
 
-I'm a Cloud and DevOps expert with experience in Infrastructure and pipeline management.
+I'm a Cloud and DevOps expert with experience in Infrastructure and CI/CD pipeline management.
 
 Connect with me:
 
